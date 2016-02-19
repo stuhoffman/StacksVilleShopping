@@ -85,20 +85,20 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="433" height="24"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
                                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                <color key="highlightedColor" patternImage="ECEF1589-3E85-440E-B23D-E134D755D41B" colorSpace="pattern"/>
+                                                <color key="highlightedColor" patternImage="8CAD2A27-C406-4FFA-ACE0-7174480EA850" colorSpace="pattern"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$70.00" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B5r-DZ-nVa">
                                                 <rect key="frame" x="433" y="0.0" width="127" height="24"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="20"/>
                                                 <color key="textColor" red="0.0" green="0.66611689809999997" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                <color key="highlightedColor" patternImage="C6E3D2E0-092A-4641-A4C7-664FC754604B" colorSpace="pattern"/>
+                                                <color key="highlightedColor" patternImage="B412CE17-4A14-45BC-AC00-FBD16B6BD566" colorSpace="pattern"/>
                                             </label>
                                         </subviews>
                                     </stackView>
                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="x6L-fT-q9h">
                                         <rect key="frame" x="0.0" y="530" width="560" height="30"/>
                                         <subviews>
-                                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tms-62-atI">
+                                            <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="240" verticalCompressionResistancePriority="760" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tms-62-atI">
                                                 <rect key="frame" x="0.0" y="0.0" width="275" height="30"/>
                                                 <color key="backgroundColor" red="1" green="0.15228547240000001" blue="0.045709128590000002" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
@@ -106,7 +106,7 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                 </state>
                                             </button>
-                                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FoT-7T-TYv">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FoT-7T-TYv">
                                                 <rect key="frame" x="285" y="0.0" width="275" height="30"/>
                                                 <color key="backgroundColor" red="0.0" green="0.66611689809999997" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
@@ -115,6 +115,7 @@
                                                 </state>
                                             </button>
                                         </subviews>
+                                        <variation key="heightClass=regular-widthClass=compact" axis="vertical"/>
                                     </stackView>
                                 </subviews>
                             </stackView>
@@ -138,7 +139,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="C6E3D2E0-092A-4641-A4C7-664FC754604B" width="256" height="256">
+        <image name="8CAD2A27-C406-4FFA-ACE0-7174480EA850" width="256" height="256">
             <mutableData key="keyedArchiveRepresentation">
 YnBsaXN0MDDUAQIDBAUGPT5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK4HCBMU
 GR4fIyQrLjE3OlUkbnVsbNUJCgsMDQ4PEBESVk5TU2l6ZVYkY2xhc3NcTlNJbWFnZUZsYWdzVk5TUmVw
@@ -4580,7 +4581,7 @@ AAQOmQAEDqEABA6kAAQOqQAEDrEABA60AAQOxgAEDskABA7OAAAAAAAABAEAAAAAAAAAQQAAAAAAAAAA
 AAAAAAAEDtA
 </mutableData>
         </image>
-        <image name="ECEF1589-3E85-440E-B23D-E134D755D41B" width="256" height="256">
+        <image name="B412CE17-4A14-45BC-AC00-FBD16B6BD566" width="256" height="256">
             <mutableData key="keyedArchiveRepresentation">
 YnBsaXN0MDDUAQIDBAUGPT5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK4HCBMU
 GR4fIyQrLjE3OlUkbnVsbNUJCgsMDQ4PEBESVk5TU2l6ZVYkY2xhc3NcTlNJbWFnZUZsYWdzVk5TUmVw
